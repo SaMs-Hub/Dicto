@@ -1,4 +1,5 @@
-# Dicto
+<h1> Dicto </h1>
+
 
 Dicto is an Smart Dictionary developed to generate definitions of the words asked by the User!!
 
