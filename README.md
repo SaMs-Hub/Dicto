@@ -5,7 +5,7 @@ Dicto is an Smart Dictionary developed to generate definitions of the words aske
 
 ![Pic2](https://user-images.githubusercontent.com/76864645/125817048-7458b92a-7f1c-4cdf-b70c-791554873d80.jpg)
 
-
+<!-- doing changes -->
 
 Made with Python, Dicto recognizes even if the User inputs a Wrong word and suggests him similar word
 
